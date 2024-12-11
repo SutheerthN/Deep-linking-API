@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "deep-link-demo-app",
+    "slug": "deep-link-demo-app",
+    "owner": "phantom-wallet",
+    "privacy": "hidden",
+    "version": "1.0.0",
+    "scheme": "deep-link-demo-app",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.phantomwallet.deeplinkdemoapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.phantomwallet.deeplinkdemoapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6d8aec9a-b6d3-49ab-9262-c1b8c0913c57"
+      }
+    }
+  }
+}
+// Commit #2 on 2024-12-18
+// Commit #4 on 2024-12-29
+// Commit #11 on 2024-12-12
+// Commit #17 on 2024-12-30
+// Commit #20 on 2024-12-30
+// Commit #21 on 2024-12-19
+// Commit #30 on 2024-12-23
+// Commit #31 on 2024-12-30
